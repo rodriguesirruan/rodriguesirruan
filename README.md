@@ -26,6 +26,13 @@ Me chamo **Irruan Rodrigues Santiago**, tenho **20 anos** e sou natural de **San
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
+    <a href="https://rodriguesirruan.github.io/portifolio_profissional/" target="_blank">
+        <img 
+            alt="Portfólio" 
+            title="Acesse meu portfólio" 
+            src="https://img.shields.io/badge/Portf%C3%B3lio-222222?style=for-the-badge&logo=githubpages&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
@@ -58,27 +65,19 @@ Me chamo **Irruan Rodrigues Santiago**, tenho **20 anos** e sou natural de **San
 />
 <img 
     align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 />
 <img 
     align="left" 
