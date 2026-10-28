@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo **Irruan Rodrigues Santiago**, tenho **20 anos** e sou natural de Santa Catarina. Concluí o ensino médio no **Cedup**, com o curso técnico em informática. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** no **CEDUP**.
+Me chamo **Irruan Rodrigues Santiago**, tenho **20 anos** e sou natural de Santa Catarina. Concluí o ensino médio no **Cedup**, com o curso técnico em informática. Atualmente, estou exercendo no cargo de **Análise e Desenvolvimento de Sistemas** na **Goes & Nicoladelli**.
 
 Sou um amante por tecnologia e estou construindo minha jornada na programação com foco no desenvolvimento web e em criar projetos que unam criatividade e solução de problemas.
 
